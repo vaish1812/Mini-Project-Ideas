@@ -19,27 +19,74 @@
     "id": 4,
     "idea": "Augmented Reality Maps"
    },
-
    {
-    "id": 7,
-    "idea": "Attendance using QR-Code"
-   },
-    {
     "id": 5,
     "idea": "Soil moisture detector"
    },
-     {
+   {
     "id": 6,
-    "idea": "Twitter clone "
-    },
+    "idea": "Attendance using QR-Code"
+   },
     {
     "id": 7,
+    "idea": "Vibration Analysis"
+    },
+    {
+    "id": 8,
+    "idea": "Twitter clone "
+   },
+   {
+    "id": 9,
+    "idea": "Disaster Management using jerks"
+   },
+  {
+    "id": 10,
+    "idea": "Attendence Management System"
+  },
+   {
+    "id": 11,
+    "idea": "EaseLearn"
+   },
+ 
+  {
+    "id": 12,
+    "idea": "System.info"
+   },
+   {
+    "id": 13,
+    "idea": "smart Irrigation System"
+   },
+   {
+    "id": 14,
+    "idea": "Personal AI Trainer"
+   },
+     {
+    "id": 15,
+    "idea": "Criminal detection using Machine learning"
+
+    },
+    {
+    "id": 16,
     "idea": "Payroll Management System"
    },
    {
-   "id":8,
-   "idea":"Decentralized App using Blockchain"
+    "id": 17,
+    "idea": "Instagram Clone"
+   },
+   {
+    "id": 18,
+    "idea": "Sentimental Analysis"
+   },
+     {
+    "id": 19,
+    "idea": "Github clone"
+   },
+   {
+    "id": 20,
+    "idea": "WCE E-Colab"
+   },
+   {
+   "id": 21,
+   "ideas": "PC Based GPS"
    }
-   
-
 ]
