@@ -38,5 +38,9 @@
    {
     "id": 9,
     "idea": "Attendance using QR-Code"
+    },
+  {
+    "id": 15,
+    "idea": "System.info"
    }
 ]
