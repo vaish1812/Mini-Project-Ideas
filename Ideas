@@ -19,22 +19,28 @@
     "id": 4,
     "idea": "Augmented Reality Maps"
    },
-
    {
-    "id": 7,
-    "idea": "Attendance using QR-Code"
-   },
-    {
     "id": 5,
     "idea": "Soil moisture detector"
    },
-     {
+   {
     "id": 6,
     "idea": "Twitter clone "
-    },
-    {
+   },
+   {
     "id": 7,
-    "idea": "Payroll Management System"
+    "idea": "Github clone"
+   },
+   {
+    "id": 8,
+    "idea": "WCE E-Colab"
+   },
+   {
+    "id": 9,
+    "idea": "Disaster Management using jerks"
+   },
+   {
+    "id": 10,
+    "idea": "EaseLearn"
    }
-
 ]
