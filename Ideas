@@ -26,5 +26,9 @@
      {
     "id": 6,
     "idea": "Twitter clone "
-    }
+    },
+    {
+    "id": 7,
+    "idea": "Distributed database system"
+   }
 ]
