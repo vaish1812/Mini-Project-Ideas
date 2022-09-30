@@ -3,7 +3,7 @@
     "id": 0,
     "idea": "Body Following Drone"
    },
-   {
+    {
     "id": 1,
     "idea": "Distributed Point of Sale System"
    }, 
@@ -22,5 +22,9 @@
     {
     "id": 5,
     "idea": "Soil moisture detector"
-   }
+   },
+     {
+    "id": 6,
+    "idea": "Twitter clone "
+    }
 ]
