@@ -21,11 +21,29 @@
    },
 
    {
+
+    "id": 7,
+    "idea": "Attendance using QR-Code"
+   },
+    {
+
     "id": 5,
     "idea": "Vibration Analysis"
-   },
+    },
     {
     "id": 6,
     "idea": "Soil moisture detector"
+    },
+
+   
+    {
+    "id": 6,
+    "idea": "Twitter clone "
+    },
+    {
+    "id": 7,
+    "idea": "Payroll Management System"
     }
+
+
 ]
