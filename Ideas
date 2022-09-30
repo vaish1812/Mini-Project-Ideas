@@ -20,35 +20,31 @@
     "idea": "Augmented Reality Maps"
    },
    {
-
     "id": 5,
+    "idea": "Soil moisture detector"
+   },
+   {
+    "id": 6,
     "idea": "Attendance using QR-Code"
    },
     {
-
-    "id": 6,
+    "id": 7,
     "idea": "Vibration Analysis"
     },
-    {
-    "id": 7,
-    "idea": "Soil moisture detector"
-   }, 
+  
     {
     "id": 8,
     "idea": "Twitter clone "
-    },
-    {
-    "id": 7,
-    "idea": "Distributed database system"
    },
    {
-    "id": 10,
-    "idea": "QR Attendance System"
-    },
+    "id": 9,
+    "idea": "Disaster Management using jerks"
+   },
    {
     "id": 11,
-    "idea": "Attendance using QR-Code"
-    },
+    "idea": "EaseLearn"
+   },
+ 
   {
     "id": 12,
     "idea": "System.info"
@@ -77,5 +73,13 @@
    {
     "id": 18,
     "idea": "Sentimental Analysis"
+   },
+     {
+    "id": 19,
+    "idea": "Github clone"
+   },
+   {
+    "id": 20,
+    "idea": "WCE E-Colab"
    }
 ]
