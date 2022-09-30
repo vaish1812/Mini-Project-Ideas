@@ -32,8 +32,7 @@
     {
     "id": 7,
     "idea": "Soil moisture detector"
-    },
-  
+   }, 
     {
     "id": 8,
     "idea": "Twitter clone "
@@ -61,5 +60,9 @@
    {
     "id": 14,
     "idea": "Personal AI Trainer"
-   }
+   },
+     {
+    "id": 15,
+    "idea": "Criminal detection using Machine learning"
+    }
 ]
