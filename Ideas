@@ -3,7 +3,7 @@
     "id": 0,
     "idea": "Body Following Drone"
    },
-    {
+   {
     "id": 1,
     "idea": "Distributed Point of Sale System"
    }, 
@@ -19,16 +19,55 @@
     "id": 4,
     "idea": "Augmented Reality Maps"
    },
-    {
+   {
+
     "id": 5,
-    "idea": "Soil moisture detector"
+    "idea": "Attendance using QR-Code"
    },
-     {
+    {
+
     "id": 6,
+    "idea": "Vibration Analysis"
+    },
+    {
+    "id": 7,
+    "idea": "Soil moisture detector"
+   }, 
+    {
+    "id": 8,
     "idea": "Twitter clone "
     },
     {
     "id": 7,
     "idea": "Distributed database system"
+   },
+   {
+    "id": 10,
+    "idea": "QR Attendance System"
+    },
+   {
+    "id": 11,
+    "idea": "Attendance using QR-Code"
+    },
+  {
+    "id": 12,
+    "idea": "System.info"
+   },
+   {
+    "id": 13,
+    "idea": "smart Irrigation System"
+   },
+   {
+    "id": 14,
+    "idea": "Personal AI Trainer"
+   },
+     {
+    "id": 15,
+    "idea": "Criminal detection using Machine learning"
+
+    },
+    {
+    "id": 16,
+    "idea": "Payroll Management System"
    }
 ]
