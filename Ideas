@@ -6,5 +6,13 @@
    {
     "id": 1,
     "idea": "Distributed Point of Sale System"
+   }, 
+  {
+    "id": 2,
+    "idea": "Face ditection portal"
+   },
+   {
+    "id": 3,
+    "idea": "Ride Sharing System using blockchain"
    }
 ]
