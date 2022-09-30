@@ -25,22 +25,61 @@
    },
    {
     "id": 6,
-    "idea": "Twitter clone "
+    "idea": "Attendance using QR-Code"
    },
-   {
+    {
     "id": 7,
-    "idea": "Github clone"
-   },
-   {
+    "idea": "Vibration Analysis"
+    },
+  
+    {
     "id": 8,
-    "idea": "WCE E-Colab"
+    "idea": "Twitter clone "
    },
    {
     "id": 9,
     "idea": "Disaster Management using jerks"
    },
    {
-    "id": 10,
+    "id": 11,
     "idea": "EaseLearn"
+   },
+ 
+  {
+    "id": 12,
+    "idea": "System.info"
+   },
+   {
+    "id": 13,
+    "idea": "smart Irrigation System"
+   },
+   {
+    "id": 14,
+    "idea": "Personal AI Trainer"
+   },
+     {
+    "id": 15,
+    "idea": "Criminal detection using Machine learning"
+
+    },
+    {
+    "id": 16,
+    "idea": "Payroll Management System"
+   },
+   {
+    "id": 17,
+    "idea": "Instagram Clone"
+   },
+   {
+    "id": 18,
+    "idea": "Sentimental Analysis"
+   },
+     {
+    "id": 19,
+    "idea": "Github clone"
+   },
+   {
+    "id": 20,
+    "idea": "WCE E-Colab"
    }
 ]
