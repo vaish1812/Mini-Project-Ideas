@@ -39,6 +39,10 @@
    {
     "id": 15,
     "idea": "System.info"
+   },
+   {
+    "id": 16,
+    "idea": "Alzheimer detction using deep learning"
    }
 
 ]
