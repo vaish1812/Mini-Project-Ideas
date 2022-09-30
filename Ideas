@@ -19,36 +19,47 @@
     "id": 4,
     "idea": "Augmented Reality Maps"
    },
-    {
+   {
+
     "id": 5,
-    "idea": "Soil moisture detector"
+    "idea": "Attendance using QR-Code"
    },
-     {
+    {
+
     "id": 6,
-    "idea": "Twitter clone "
+    "idea": "Vibration Analysis"
     },
     {
     "id": 7,
+    "idea": "Soil moisture detector"
+    },
+  
+    {
+    "id": 8,
+    "idea": "Twitter clone "
+    },
+    {
+    "id": 9,
     "idea": "Payroll Management System"
    },
    {
-    "id": 8,
+    "id": 10,
     "idea": "QR Attendance System"
     },
    {
-    "id": 9,
+    "id": 11,
     "idea": "Attendance using QR-Code"
     },
   {
-    "id": 15,
+    "id": 12,
     "idea": "System.info"
    },
    {
-    "id": 11,
+    "id": 13,
     "idea": "smart Irrigation System"
    },
    {
-    "id": 17,
+    "id": 14,
     "idea": "Personal AI Trainer"
    }
 ]
