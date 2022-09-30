@@ -1,6 +1,10 @@
 [
-  {
+   {
     "id": 0,
     "idea": "Body Following Drone"
+   },
+   {
+    "id": 1,
+    "idea": "Distributed Point of Sale System"
    }
 ]
