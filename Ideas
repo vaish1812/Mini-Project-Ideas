@@ -19,6 +19,11 @@
     "id": 4,
     "idea": "Augmented Reality Maps"
    },
+
+   {
+    "id": 7,
+    "idea": "Attendance using QR-Code"
+   },
     {
     "id": 5,
     "idea": "Soil moisture detector"
@@ -31,4 +36,5 @@
     "id": 7,
     "idea": "Payroll Management System"
    }
+
 ]
