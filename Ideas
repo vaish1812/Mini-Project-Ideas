@@ -38,6 +38,8 @@
     "idea": "Twitter clone "
     },
     {
+    "id": 7,
+    "idea": "Criminal detection using ML"
     "id": 9,
     "idea": "Payroll Management System"
    },
@@ -64,5 +66,6 @@
      {
     "id": 15,
     "idea": "Criminal detection using Machine learning"
+
     }
 ]
