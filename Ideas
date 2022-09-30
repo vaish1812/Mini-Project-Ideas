@@ -3,7 +3,7 @@
     "id": 0,
     "idea": "Body Following Drone"
    },
-    {
+   {
     "id": 1,
     "idea": "Distributed Point of Sale System"
    }, 
@@ -26,5 +26,9 @@
      {
     "id": 6,
     "idea": "Twitter clone "
-    }
+    },
+    {
+    "id": 7,
+    "idea": "Payroll Management System"
+   }
 ]
