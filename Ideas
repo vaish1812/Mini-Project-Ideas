@@ -19,12 +19,24 @@
     "id": 4,
     "idea": "Augmented Reality Maps"
    },
-   {
-    "id": 6,
-    "idea": "QR Attendance System"
-    },
     {
     "id": 5,
     "idea": "Soil moisture detector"
+   },
+     {
+    "id": 6,
+    "idea": "Twitter clone "
+    },
+    {
+    "id": 7,
+    "idea": "Payroll Management System"
+   },
+   {
+    "id": 8,
+    "idea": "QR Attendance System"
+    },
+   {
+    "id": 9,
+    "idea": "Attendance using QR-Code"
    }
 ]
