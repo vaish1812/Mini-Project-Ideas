@@ -39,9 +39,7 @@
     },
     {
     "id": 7,
-    "idea": "Criminal detection using ML"
-    "id": 9,
-    "idea": "Payroll Management System"
+    "idea": "Distributed database system"
    },
    {
     "id": 10,
@@ -67,5 +65,9 @@
     "id": 15,
     "idea": "Criminal detection using Machine learning"
 
-    }
+    },
+    {
+    "id": 16,
+    "idea": "Payroll Management System"
+   }
 ]
