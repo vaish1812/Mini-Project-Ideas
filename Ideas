@@ -6,7 +6,9 @@
    {
     "id": 1,
     "idea": "Optimize Parking System"
-   },
-   
-   
+   }, 
+  {
+    "id": 2,
+    "idea": "Face ditection portal"
+   }
 ]
