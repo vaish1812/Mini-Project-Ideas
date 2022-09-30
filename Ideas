@@ -35,6 +35,10 @@
     {
     "id": 7,
     "idea": "Payroll Management System"
+   },
+     {
+    "id": 12,
+    "idea": "Automatic Plant Watering System"
    }
 
 ]
