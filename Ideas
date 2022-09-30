@@ -1,10 +1,34 @@
 [
-  {
+   {
     "id": 0,
     "idea": "Body Following Drone"
    },
-    {
+   {
+    "id": 1,
+    "idea": "Distributed Point of Sale System"
+   }, 
+  {
+    "id": 2,
+    "idea": "Face ditection portal"
+   },
+   {
+    "id": 3,
+    "idea": "Ride Sharing System using blockchain"
+   },
+   {
     "id": 4,
+    "idea": "Augmented Reality Maps"
+   },
+    {
+    "id": 5,
+    "idea": "Soil moisture detector"
+   },
+     {
+    "id": 6,
+    "idea": "Twitter clone "
+    },
+    {
+    "id": 7,
     "idea": "Payroll Management System"
    }
 ]
