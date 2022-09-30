@@ -22,5 +22,9 @@
     {
     "id": 5,
     "idea": "Soil moisture detector"
+   },
+   {
+    "id": 6,
+    "idea": "Criminal detection using Machine learning"
    }
 ]
